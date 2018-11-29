@@ -1,0 +1,63 @@
+﻿  pch.cpp
+  main.cpp
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\cvstd.hpp(571): warning C26495: Variable 'cv::String::len_' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(76): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(77): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(78): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(79): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(80): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(81): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(98): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(106): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(125): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(128): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(131): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(134): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(137): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(140): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(476): warning C26495: Variable 'cv::Mat::flags' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(502): warning C6297: 算术溢出: 对 32 位值进行移位操作，然后强制转换为 64 位值。 结果可能不是预期值。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(502): warning C26451: Arithmetic overflow: Using operator '<<' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '<<' to avoid overflow (io.2).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(535): warning C6297: 算术溢出: 对 32 位值进行移位操作，然后强制转换为 64 位值。 结果可能不是预期值。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(535): warning C26451: Arithmetic overflow: Using operator '<<' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '<<' to avoid overflow (io.2).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(1347): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(1372): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(1468): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(1474): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2082): warning C26495: Variable 'cv::SparseMat::flags' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2149): warning C6297: 算术溢出: 对 32 位值进行移位操作，然后强制转换为 64 位值。 结果可能不是预期值。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2149): warning C26451: Arithmetic overflow: Using operator '<<' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '<<' to avoid overflow (io.2).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2593): warning C6011: 取消对 NULL 指针“m”的引用。查看第 2590 行以找出可能会发生此情况的前一位置
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2607): warning C6011: 取消对 NULL 指针“m”的引用。查看第 2604 行以找出可能会发生此情况的前一位置
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2617): warning C26495: Variable 'cv::MatConstIterator::ptr' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3056): warning C26495: Variable 'cv::SparseMatConstIterator::m' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3602): warning C26495: Variable 'cv::UMat::flags' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3839): warning C26495: Variable 'cv::UMat::usageFlags' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3839): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3863): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\persistence.hpp(1320): warning C26495: Variable 'cv::FileNode::fs' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\utility.hpp(303): warning C26495: Variable 'cv::TickMeter::startTime' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\utility.hpp(500): warning C6297: 算术溢出: 对 32 位值进行移位操作，然后强制转换为 64 位值。 结果可能不是预期值。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\utility.hpp(500): warning C26451: Arithmetic overflow: Using operator '<<' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '<<' to avoid overflow (io.2).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(334): warning C26495: Variable '_IplImage::BorderConst' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(460): warning C26495: Variable 'CvMat::hdr_refcount' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(461): warning C26495: Variable 'CvMat::hdr_refcount' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(527): warning C26495: Variable 'CvMat::hdr_refcount' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(651): warning C26495: Variable 'CvMatND::dim' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types_c.h(1129): warning C26495: Variable 'CvScalar::val' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\imgproc\types_c.h(414): warning C26495: Variable 'CvMoments::m03' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\imgproc\imgproc_c.h(1131): warning C26495: Variable 'CvFont::font_face' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types.hpp(1149): warning C26495: Variable 'cv::Point_<float>::x' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types.hpp(1642): warning C26495: Variable 'cv::Size_<int>::height' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(853): warning C26495: Variable 'cv::Matx<double,4,1>::val' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\mat.inl.hpp(113): warning C26495: Variable 'cv::debug_build_guard::_InputArray::obj' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(562): warning C6294: for 循环定义错误: 初始条件不满足测试。 循环体未执行。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(562): warning C6201: 索引“3”超出了“0”至“2”的有效范围(对于可能在堆栈中分配的缓冲区“this->val”)。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(663): warning C26495: Variable 'cv::Matx<double,4,1>::val' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(1119): warning C6385: 从“this->val”中读取的数据无效: 可读大小为“8”个字节，但可能读取了“i”个字节。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(554): warning C6294: for 循环定义错误: 初始条件不满足测试。 循环体未执行。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(554): warning C6201: 索引“2”超出了“0”至“1”的有效范围(对于可能在堆栈中分配的缓冲区“this->val”)。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(570): warning C6294: for 循环定义错误: 初始条件不满足测试。 循环体未执行。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(570): warning C6201: 索引“4”超出了“0”至“3”的有效范围(对于可能在堆栈中分配的缓冲区“this->val”)。
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\matx.hpp(537): warning C26495: Variable 'cv::Matx<double,4,1>::val' is uninitialized. Always initialize a member variable (type.6).
+c:\users\bangbang\documents\opencv\build\include\opencv2\core\types.hpp(767): warning C26495: Variable 'cv::KeyPoint::angle' is uninitialized. Always initialize a member variable (type.6).
